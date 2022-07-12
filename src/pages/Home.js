@@ -110,6 +110,7 @@ const Home = () => {
           ></img>
           <div className="tweetBox">
             <TextArea
+            className="update"
               label="Whats on your mind"
               name="tweetTxtArea"
               value=""
