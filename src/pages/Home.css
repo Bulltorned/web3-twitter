@@ -23,6 +23,7 @@
 
 .tweetBox {
     width:89%;
+    background-color: transparent !important;
 }
 
 .profilePic {
